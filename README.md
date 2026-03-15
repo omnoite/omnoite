@@ -39,6 +39,7 @@ I am a technical specialist with a deep background in **Network Infrastructure**
 ### 🛠️ Lab Reports (In Progress)
 - 🚀 **Auth-Sentinel:** Building a real-time login monitor.
 - 🏋 **Try Hack Me Labs** Training in the THM Labs.
+<img src="https://tryhackme-badges.s3.amazonaws.com/omnoite8.png" alt="Your Image Badge" />
 
 ---
 
