@@ -1,4 +1,77 @@
 ## Hi there 👋
+# <p align="center">👾 Javier Soliz Miranda 👾</p>
+<div class="container">
+  <img 
+src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" height="250" width="300">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
+  <img
+src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*MptLjygMO184yyWqmg4PUA.gif" width="300" height="250"> 
+
+### 📜 The Briefing
+I am a technical specialist with a deep background in **Network Infrastructure** (FTTH/GPON). I’ve spent years ensuring the physical data flow is perfect; now, I’m dedicated to ensuring it is **secure**. 
+
+- **Level:** Junior Cybersecurity Analyst (In Training)
+- **Skills:** Threat Detection, Network Hardening, Python Automation.
+- **Languages:** 🇪🇸 Spanish | 🇩🇪 German | 🇬🇧 English | 🏁 Catalan
+
+---
+
+### 🛡️ Skills & Tools
+**Core Defense**
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-lightgrey?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat-square)
+
+**Infrastructure**
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+
+**Automation**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+---
+
+### 🛠️ Lab Reports (In Progress)
+- 🚀 **Auth-Sentinel:** Building a real-time login monitor.
+- 🔍 **Risk-Scanner:** Creating a Python-based port prioritization tool.
+
+---
+
+<p align="center">
+  <i>"Honesty in code, security in networks."</i><br>
+  <b>[ 📨 Contact me via Email ](mailto:jasomi98work@gmail.com)</b>
+</p>
+<!--<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOWumd3rweN5_3_LUE1s_90GuldLnxFzwlA&s"/>
+Hi there! I'm Javier 🛰️🛡️
+
+**Infrastructure Technician ➔ Cybersecurity Aspirant**
+*Building secure foundations from the physical layer up.*
+
+---
+### 👾 About Me
+- 📍 Based in **Oldenburg, Germany**.
+- 🛠️ Currently pivoting from **Fiber Optics & Networking** to **Cyber Defense**.
+- 🔍 Focused on **Vulnerability Analysis** and **Network Security**.
+
+---
+
+### 🛠️ Tech Stack
+
+| Networking & Infrastructure | Security & Tools |
+| :--- | :--- |
+| ![Fiber](https://img.shields.io/badge/-LWL%20Splicing-blue?style=for-the-badge) ![GPON](https://img.shields.io/badge/-GPON%2FXGS--PON-orange?style=for-the-badge) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Cisco](https://img.shields.io/badge/Cisco-0493D1?style=for-the-badge&logo=cisco&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) | ![Nmap](https://img.shields.io/badge/-Nmap-4E9A06?style=for-the-badge) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
+
+---
+
+### 📈 Current Mission
+- [ ] Completing **CompTIA Security+** Labs.
+- [ ] Developing my first **Automated Security Scripts**.
+- [ ] Ranking up on **TryHackMe**.
+ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4E9A06?style=flat-square)
+
+---
+
+### 📫 Let's Connect
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasomi98work@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 # ¡Hola! Soy Javier Soliz Miranda 👋
 <img aling="ledt" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOWumd3rweN5_3_LUE1s_90GuldLnxFzwlA&s"/>
 Me defino como un **entusiasta de la tecnología de infraestructuras en transición hacia la Ciberseguridad**. Vengo del mundo de las telecomunicaciones y el despliegue de redes, donde aprendí que la seguridad no es solo teoría, sino algo que debe funcionar en el mundo real.
@@ -43,7 +116,7 @@ Actualmente, estoy transformando mi base técnica en redes físicas y sistemas e
 
 *"La seguridad es un proceso, no un producto." - Mi meta es ser parte de ese proceso.*
 /*
-<!--
+
 **omnoite/omnoite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -57,4 +130,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*/
+*/ --!/
