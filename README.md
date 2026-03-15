@@ -7,7 +7,6 @@ src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/rata
 
 ### 📜 Who am I
 I am a technical specialist with a deep background in **Network Infrastructure** (FTTH/GPON). I’ve spent years ensuring the physical data flow is perfect; now, I’m dedicated to ensuring it is **secure** 
-<img src="https://www.flaticon.com/free-icon/cyber-criminal_15097046 " alt="Icono">
 
 - **Level:** Junior Cybersecurity Analyst 
 - **Skills:** Threat Detection, Network Hardening, Python Automation.
