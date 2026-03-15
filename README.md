@@ -4,8 +4,6 @@
   <img 
 src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" height="250" width="300">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
-  <img
-src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*MptLjygMO184yyWqmg4PUA.gif" width="300" height="250"> 
 
 ### 📜 The Briefing
 I am a technical specialist with a deep background in **Network Infrastructure** (FTTH/GPON). I’ve spent years ensuring the physical data flow is perfect; now, I’m dedicated to ensuring it is **secure**. 
