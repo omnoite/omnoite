@@ -1,5 +1,5 @@
 ## Hi there 👋
-# <p align="center">👾 Javier Soliz Miranda 👾</p>
+# <p align="center">👾I´m J. Mauricio 👾</p>
 <div class="container">
   <img 
 src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" height="250" width="300">
