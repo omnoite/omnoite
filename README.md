@@ -5,36 +5,47 @@
 src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" height="250" width="300">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6amZ4bmV6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
 
-### 📜 The Briefing
-I am a technical specialist with a deep background in **Network Infrastructure** (FTTH/GPON). I’ve spent years ensuring the physical data flow is perfect; now, I’m dedicated to ensuring it is **secure**. 
+### 📜 Who am I
+I am a technical specialist with a deep background in **Network Infrastructure** (FTTH/GPON). I’ve spent years ensuring the physical data flow is perfect; now, I’m dedicated to ensuring it is **secure** 
+<img src="https://www.flaticon.com/free-icon/cyber-criminal_15097046 " alt="Icono">
 
-- **Level:** Junior Cybersecurity Analyst (In Training)
+- **Level:** Junior Cybersecurity Analyst 
 - **Skills:** Threat Detection, Network Hardening, Python Automation.
-- **Languages:** 🇪🇸 Spanish | 🇩🇪 German | 🇬🇧 English | 🏁 Catalan
+- **Languages:** 🇪🇸 Spanish | 🇩🇪 German | 🇬🇧 English | Ca Catalan
 
 ---
 
 ### 🛡️ Skills & Tools
-**Core Defense**
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-lightgrey?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat-square)
+#### **Core Defense & SOC Operations**
 
-**Infrastructure**
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-lightgrey?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat-square) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-orange?style=flat-square&logo=burp-suite) ![SIEM](https://img.shields.io/badge/-SIEM%20(Chronicle%2FSplunk)-red?style=flat-square) ![IDS/IPS](https://img.shields.io/badge/-Suricata%2FSnort-green?style=flat-square) ![EDR](https://img.shields.io/badge/-SentinelOne-black?style=flat-square)
 
-**Automation**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+#### **Infrastructure & Environments**
 
----
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+#### **Automation & Scripting**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+
+
+
+
+
+
+
+
+
 
 ### 🛠️ Lab Reports (In Progress)
 - 🚀 **Auth-Sentinel:** Building a real-time login monitor.
-- 🔍 **Risk-Scanner:** Creating a Python-based port prioritization tool.
+- 🏋 **Try Hack Me Labs** Training in the THM Labs.
 
 ---
 
 <p align="center">
   <i>"Honesty in code, security in networks."</i><br>
-  <b>[ 📨 Contact me via Email ](mailto:jasomi98work@gmail.com)</b>
+  <b>[ 📨 Contact me via Email ](mail to:jasomi98work@gmail.com)</b>
 </p>
 <!--<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOWumd3rweN5_3_LUE1s_90GuldLnxFzwlA&s"/>
 Hi there! I'm Javier 🛰️🛡️
@@ -70,7 +81,8 @@ Hi there! I'm Javier 🛰️🛡️
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasomi98work@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-# ¡Hola! Soy Javier Soliz Miranda 👋
+hi im jsm 
+
 <img aling="ledt" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOWumd3rweN5_3_LUE1s_90GuldLnxFzwlA&s"/>
 Me defino como un **entusiasta de la tecnología de infraestructuras en transición hacia la Ciberseguridad**. Vengo del mundo de las telecomunicaciones y el despliegue de redes, donde aprendí que la seguridad no es solo teoría, sino algo que debe funcionar en el mundo real.
 
